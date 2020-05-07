@@ -1,0 +1,2 @@
+include ':app', ':labelview'
+rootProject.name='My Application'
